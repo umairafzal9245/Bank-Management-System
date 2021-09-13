@@ -303,6 +303,7 @@ public class BMS
 			{
 				System.out.print("Enter the correct choice : ");
 				choice = input.nextInt();
+			
 			}
 			if(choice == 1)
 			{
